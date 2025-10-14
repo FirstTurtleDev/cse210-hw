@@ -1,0 +1,33 @@
+[
+  {
+    "ActivityName": "Breathing",
+    "DurationSeconds": 10,
+    "Timestamp": "2025-10-14T17:32:14.6733001-04:00",
+    "Extra": {
+      "cycles": 1,
+      "inhaleSeconds": 4,
+      "exhaleSeconds": 6
+    }
+  },
+  {
+    "ActivityName": "Body Scan",
+    "DurationSeconds": 30,
+    "Timestamp": "2025-10-14T17:33:05.5571895-04:00",
+    "Extra": {
+      "regionsVisited": 5
+    }
+  },
+  {
+    "ActivityName": "Listing",
+    "DurationSeconds": 20,
+    "Timestamp": "2025-10-14T17:34:01.7317558-04:00",
+    "Extra": {
+      "prompt": "When have you felt the Holy Ghost this month?",
+      "itemsCount": 2,
+      "items": [
+        "at home",
+        "at the temple"
+      ]
+    }
+  }
+]
